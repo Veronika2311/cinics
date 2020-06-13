@@ -634,6 +634,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#8303d3",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "text-description": "24. Поставленный несколько дней тому назад в Алексндровском саду памятник Робеспьеру разрушен \"неизвестными преступниками\".",
+        "year": 1919
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61538505554199,
+          55.753781489660035
+        ]
+      }
     }
   ]
 }
