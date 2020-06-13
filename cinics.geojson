@@ -772,6 +772,23 @@
           ]
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#cc7aff",
+        "marker-size": "large",
+        "marker-symbol": "marker",
+        "text-description": "Здесь автор -- Мариенгоф -- жил с 1920 по 1928",
+        "name": "Дом автора"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.61401444673538,
+          55.76626536499858
+        ]
+      }
     }
   ]
 }
