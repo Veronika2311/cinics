@@ -1,0 +1,27 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "ваш примерный путь",
+        "stroke": "7cfc2c",
+        "marker-size": "medium",
+        "marker-symbol": "marker"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            55.837900,
+            37.409800
+          ],
+          [
+            37.645643,
+            55.759564
+          ]
+        ]
+      }
+    }
+  ]
+}
